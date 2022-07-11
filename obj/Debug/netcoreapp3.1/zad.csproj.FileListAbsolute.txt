@@ -1,0 +1,13 @@
+C:\Users\Dawid\OneDrive\Pulpit\zadanie\zad\bin\Debug\netcoreapp3.1\zad.exe
+C:\Users\Dawid\OneDrive\Pulpit\zadanie\zad\bin\Debug\netcoreapp3.1\zad.deps.json
+C:\Users\Dawid\OneDrive\Pulpit\zadanie\zad\bin\Debug\netcoreapp3.1\zad.runtimeconfig.json
+C:\Users\Dawid\OneDrive\Pulpit\zadanie\zad\bin\Debug\netcoreapp3.1\zad.runtimeconfig.dev.json
+C:\Users\Dawid\OneDrive\Pulpit\zadanie\zad\bin\Debug\netcoreapp3.1\zad.dll
+C:\Users\Dawid\OneDrive\Pulpit\zadanie\zad\bin\Debug\netcoreapp3.1\zad.pdb
+C:\Users\Dawid\OneDrive\Pulpit\zadanie\zad\obj\Debug\netcoreapp3.1\zad.AssemblyInfoInputs.cache
+C:\Users\Dawid\OneDrive\Pulpit\zadanie\zad\obj\Debug\netcoreapp3.1\zad.AssemblyInfo.cs
+C:\Users\Dawid\OneDrive\Pulpit\zadanie\zad\obj\Debug\netcoreapp3.1\zad.csproj.CoreCompileInputs.cache
+C:\Users\Dawid\OneDrive\Pulpit\zadanie\zad\obj\Debug\netcoreapp3.1\zad.dll
+C:\Users\Dawid\OneDrive\Pulpit\zadanie\zad\obj\Debug\netcoreapp3.1\zad.pdb
+C:\Users\Dawid\OneDrive\Pulpit\zadanie\zad\obj\Debug\netcoreapp3.1\zad.genruntimeconfig.cache
+C:\Users\Dawid\OneDrive\Pulpit\zadanie\zad\obj\Debug\netcoreapp3.1\zad.csproj.AssemblyReference.cache
