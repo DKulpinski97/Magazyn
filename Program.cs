@@ -24,7 +24,7 @@ namespace zad
             //Dostarczenie paczek, maszyn i samochodów do przeładunku
             List<Packages> recoveredPackage = new List<Packages>();
             List<Car> listCar = new List<Car>();
-            List<Packages> listCollectPackage = new List<Packages>();
+            List<Packages> listCollectPackage = new List<Packages>() ;
             List<Packages> listCollectPackageCopy = new List<Packages>();
             List<Machinery> listMachinery = new List<Machinery>();
             /*recoveredPackage = generatePackages.GeneratePackages(howMenyPackage.Next(5,41));
